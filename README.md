@@ -21,7 +21,3 @@ We were tasked with ensuring ACID properties across the following database opera
 2. **Transaction 2** (Java): Delete depot `d1` from `Depot` and `Stock` tables.
 3. **Transaction 3** (Python): Update product `p1` to `pp1` in `Product` and `Stock` tables.
 4. **Transaction 4** (Python): Update depot `d1` to `dd1` in `Depot` and `Stock` tables.
-
-## Deliverables
-- Source code hosted on individual GitHub repositories.
-- A recorded video presentation demonstrating the execution of transactions.
